@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Classic Arcade Game",
+    "artist": "Pixabay Music",
+    "genre": ["retro", "game", "8-bit"],
+    "url": "https://nGp145i.github.io/diploma-music-app/music/arcade_game.mp3"
+  },
+  {
+    "id": "2",
+    "title": "Happy Christmas Music",
+    "artist": "Pixabay Music",
+    "genre": ["christmas", "background", "festive"],
+    "url": "https://nGp145i.github.io/diploma-music-app/music/christmas_music.mp3"
+  }
+]
